@@ -1,4 +1,4 @@
-const url = "https://github.com/24f2007761-cyber/github.api";
+const url = "https://api.github.com/repos/24f2007761-cyber/github.api";
 const AI_PIPE_TOKEN = "eyJhbGciOiJIUzI1NiJ9.eyJlbWFpbCI6IjI0ZjIwMDc3NjFAZHMuc3R1ZHkuaWl0bS5hYy5pbiJ9.wx-gD2lMqQmICsBF8sy_BXuXJs-5bhC2Zu_cRnVIkig"; // Replace with your GitHub token
 
 async function getRepoCreationDate() {
